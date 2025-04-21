@@ -1,0 +1,20 @@
+{
+  "name": "to-do-list-scm-projects",
+  "version": "1.0.0",
+  "description": "A To-Do List is a tool used for organizing tasks, ensuring productivity, and managing time effectively. It helps individuals and teams keep track of their daily, weekly, or long-term tasks in an organized man # 📝 To-Do List App",
+  "main": "To_Do_java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiranjanSingh1290/To-Do-List-SCM-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiranjanSingh1290/To-Do-List-SCM-Projects/issues"
+  },
+  "homepage": "https://github.com/NiranjanSingh1290/To-Do-List-SCM-Projects#readme"
+}
