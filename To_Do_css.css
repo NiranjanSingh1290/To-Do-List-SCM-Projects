@@ -82,44 +82,7 @@ nav li a:hover, nav li a.active
   text-decoration: underline;
   color: rgba(0, 0, 0, 0.559);
 }
-.my-btn {
-  display: flex;
-  align-items: center;
-  padding: 10px 20px;
-  border: 0;
-  outline: 0;
-  border-radius: 5px;
-  background: #f5168d;
-  color: #ffffff;
-  font-weight: 500;
-  cursor: pointer;
 
-}
-.my-btn:hover {
-  background-color: #e31583;
-  text-decoration: none;
-  color: white;
-}
-/*Dropdown CSS*/
-.logo-msg {
-  margin-left: 40px;
-  color: #ffffff;
-  font-weight: 600;
-  
-}
-.home {
-  color: white;
-  display: flex;
-  justify-content: center;
-}
-#dynamic-content {
-  color: #ffffff;
-  font-size: 38px;
-  font-weight: bold;
-  text-align: center;
-  margin-top: 20px;
-  
-}
 .to-do-list-container {
   display: flex;
   flex-direction: column;
