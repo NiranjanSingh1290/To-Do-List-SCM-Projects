@@ -215,3 +215,20 @@ input {
       font-size: 19px;
   }
 }
+@media (max-width: 583px) {
+  nav li a {
+      font-size: 7px;
+  }
+  .logo {
+      width: 30px;
+  }
+  .logo-msg {
+      font-size: 8px;
+  }
+  #dynamic-content {
+      font-size: 9px;
+  }
+  .to-do-list-container {
+      width: 400px;
+  }
+}
