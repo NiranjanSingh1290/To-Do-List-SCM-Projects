@@ -201,3 +201,17 @@ input {
   outline: none;
   color: #ffffff;
 }
+@media (max-width: 685px) {
+  nav li a {
+      font-size: 10px;
+  }
+  .logo {
+      width: 50px;
+  }
+  .logo-msg {
+      font-size: 16px;
+  }
+  #dynamic-content {
+      font-size: 19px;
+  }
+}
