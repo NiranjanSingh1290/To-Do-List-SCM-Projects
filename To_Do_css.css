@@ -232,3 +232,12 @@ input {
       width: 400px;
   }
 }
+
+@media (max-width: 461px) {
+  nav li a {
+      visibility: hidden;
+  }
+  .to-do-list-container {
+      width: 300px;
+  }
+}
